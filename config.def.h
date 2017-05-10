@@ -49,7 +49,7 @@ unsigned int actionfps = 30;
  * blinking timeout (set to 0 to disable blinking) for the terminal blinking
  * attribute.
  */
-unsigned int blinktimeout = 800;
+unsigned int blinktimeout = 500;
 
 /*
  * thickness of underline and bar cursors
